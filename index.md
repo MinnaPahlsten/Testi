@@ -2,12 +2,12 @@ title: Jekyll:iä käyttävä sivusto
 
 description: GitHub Pages Sivuni
 
-theme: Cayman
+theme: theme- jekyll- Minima
 
 Tervetuloa GitHub Pages- sivustolleni!
 
 Täältä löytyvät tehtävänpalautukset:
 
-headers pages: 
+header page: indrex.md
 
 
